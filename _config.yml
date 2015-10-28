@@ -1,0 +1,33 @@
+# Site settings
+title:       M&eacute;lange 
+email:       austin.moody@gmail.com
+author:      Austin Moody
+description: ""
+baseurl:     "http://austinmoody.org/~melange"
+url:         "http://austinmoody.org/~melange/"
+#url:         ""
+
+# Google analytics
+google_analytics: UA-135537-40
+
+# Optional features
+animated:           false
+show_related_posts: true
+show_post_footers:  true
+
+# Social icons
+show_social_icons: true
+github_username:
+twitter_username: notaustintexas
+google_plus_id:
+linkedin_username:
+bitcoin_url:
+paypal_url:
+flattr_button:
+
+# Build settings
+markdown:     kramdown
+permalink:    pretty
+paginate:     10
+sass:
+  compressed: true
