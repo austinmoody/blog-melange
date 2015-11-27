@@ -1,5 +1,5 @@
 # Site settings
-title:       M&eacute;lange 
+title:       M&eacute;lange
 email:       austin.moody@gmail.com
 author:      Austin Moody
 description: ""
@@ -31,3 +31,5 @@ permalink:    pretty
 paginate:     10
 sass:
   compressed: true
+
+gems: [jekyll-paginate]
